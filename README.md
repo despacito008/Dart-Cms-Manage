@@ -25,13 +25,13 @@ npm run build
 
 ## 预览
 <p align="center">
-    <img src="https://raw.githubusercontent.com/abcd498936590/pic/master/img/dart-cms-1.png" />
-    <img src="https://raw.githubusercontent.com/abcd498936590/pic/master/img/dart-cms-2.png" />
-    <img src="https://raw.githubusercontent.com/abcd498936590/pic/master/img/dart-cms-3.png" />
-    <img src="https://raw.githubusercontent.com/abcd498936590/pic/master/img/dart-cms-4.png" />
-    <img src="https://raw.githubusercontent.com/abcd498936590/pic/master/img/dart-cms-10.png" />
-    <img src="https://raw.githubusercontent.com/abcd498936590/pic/master/img/dart-cms-11.png" />
-    <img src="https://raw.githubusercontent.com/abcd498936590/pic/master/img/dart-cms-12.png" />
-    <img src="https://raw.githubusercontent.com/abcd498936590/pic/master/img/dart-cms-13.png" />
+    <img src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/dart-cms-1.png" />
+    <img src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/dart-cms-2.png" />
+    <img src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/dart-cms-3.png" />
+    <img src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/dart-cms-4.png" />
+    <img src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/dart-cms-10.png" />
+    <img src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/dart-cms-11.png" />
+    <img src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/dart-cms-12.png" />
+    <img src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/dart-cms-13.png" />
 </p>
 
